@@ -1,4 +1,4 @@
-project: https://platform.activestate.com/gdfuego/twitter?branch=main&commitID=2ab5d5f4-adac-4ca4-840a-6772406ca6e1
+project: https://platform.activestate.com/gdfuego/twitter?branch=main&commitID=ffb71761-3b1d-4a4e-bee0-3d9102a7bb58
 
 scripts:
   - name: activationMessage
